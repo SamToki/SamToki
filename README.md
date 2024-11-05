@@ -1,4 +1,4 @@
-# 公告 Notice
+# 公告 ／ Notice
 
 2024/10/25
 
@@ -8,7 +8,7 @@ Original Doujin game [Yamanobo-Ryou](https://github.com/SamToki/Yamanobo-Ryou) (
 由于厌倦了「[原神](https://zh.moegirl.org.cn/原神)」，同人游戏「[七圣召唤 Lite](https://github.com/SamToki/GITCG-Lite)」已停止开发，[STMC 鼠标指针系列](https://github.com/SamToki/Sam-Toki-Mouse-Cursors)也不再为原神角色创作。<br>
 As I am tired of *Genshin Impact*, the development of the Doujin game [GITCG Lite](https://github.com/SamToki/GITCG-Lite) has been suspended. And [Sam Toki's Mouse Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) won't add more *Genshin Impact* characters.
 
-# 简介 Description
+# 简介 ／ Description
 
 喜欢捣鼓电脑的萌豚一只desu～<br>
 A "moebuta" who loves computer software~
