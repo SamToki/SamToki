@@ -3,7 +3,7 @@
 2024/10/25
 
 原创同人游戏「[山田凉上山](https://github.com/SamToki/Yamanobo-Ryou)」已发布。<br>
-Original Doujin game [Yamanobo-Ryou](https://github.com/SamToki/Yamanobo-Ryou) (lit. Yamada Ryou climbing mountain) is now available. After this project I am expected to **suspend** working on new projects for a long time.
+Original Doujin game [Yamanobo-Ryou](https://github.com/SamToki/Yamanobo-Ryou) (lit. Yamada Ryou climbing mountain) is now available.
 
 由于厌倦了「[原神](https://zh.moegirl.org.cn/原神)」，同人游戏「[七圣召唤 Lite](https://github.com/SamToki/GITCG-Lite)」已停止开发，[STMC 鼠标指针系列](https://github.com/SamToki/Sam-Toki-Mouse-Cursors)也不再为原神角色创作。<br>
 As I am tired of *Genshin Impact*, the development of the Doujin game [GITCG Lite](https://github.com/SamToki/GITCG-Lite) has been suspended. And [Sam Toki's Mouse Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) won't add more *Genshin Impact* characters.
