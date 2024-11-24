@@ -17,4 +17,4 @@ A "moebuta" who loves computer software~
 Interested in Windows, Linux, front-end web, graphic design, aviation, foreign languages, etc. Almost all of my creative works are related to these fields...
 
 欢迎访问我的[个人网站](https://samtoki.github.io/#SelfIntroduction)查看完整的自我介绍。<br>
-The complete version of my self introduction is available on my personal website in simplified Chinese only.
+The complete version of my self introduction is available on [my personal website](https://samtoki.github.io/#SelfIntroduction), in simplified Chinese only.
