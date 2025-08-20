@@ -1,12 +1,15 @@
 # 公告 Notice
 
-2025/01/18
+2025/08/20
 
-原创项目「[GPS-PFD](https://github.com/SamToki/GPS-PFD)」新鲜出炉。<br>
-Original project [GPS-PFD](https://github.com/SamToki/GPS-PFD) is now available.
+[STMC 鼠标指针系列](https://github.com/SamToki/Sam-Toki-Mouse-Cursors)新成员：[沉默魔女](https://zh.moegirl.org.cn/沉默的魔女)莫妮卡！<br>
+Meet the new member of [Sam Toki's Mouse Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors): Monica the [Silent Witch](https://en.wikipedia.org/wiki/Secrets_of_the_Silent_Witch)!
 
-由于厌倦了「[原神](https://zh.moegirl.org.cn/原神)」，同人游戏「[七圣召唤 Lite](https://github.com/SamToki/GITCG-Lite)」已停止开发。[STMC 鼠标指针系列](https://github.com/SamToki/Sam-Toki-Mouse-Cursors)也不再为原神角色创作。<br>
-As I am tired of [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact), the development of the Doujin game [GITCG Lite](https://github.com/SamToki/GITCG-Lite) has been suspended. And [Sam Toki's Mouse Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) won't add more *Genshin Impact* characters.
+航空爱好者原创项目「[GPS-PFD](https://github.com/SamToki/GPS-PFD)」公测中。<br>
+Aviation geek original project [GPS-PFD](https://github.com/SamToki/GPS-PFD) is now in beta test.
+
+[原神](https://zh.moegirl.org.cn/原神)同人游戏「[七圣召唤 Lite](https://github.com/SamToki/GITCG-Lite)」已停止开发。<br>
+The development of the [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact) Doujin game [GITCG Lite](https://github.com/SamToki/GITCG-Lite) has been suspended.
 
 # 简介 Description
 
