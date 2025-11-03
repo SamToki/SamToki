@@ -19,5 +19,5 @@ A "moebuta" who loves computer software~
 喜好学习 Windows、Linux、Web 前端、平面设计、航空、外语等领域，并进行相关创作。作为非主流业余创作者，创作只是为爱发电，让自己开心…<br>
 Interested in Windows, Linux, front-end web, graphic design, aviation, foreign languages, etc. Almost all of my creative works are related to these fields. As a subculture amateur, I make creative works just out of love, and just for fun...
 
-欢迎访问我的[个人网站](https://samtoki.github.io/#SelfIntroduction)查看完整的自我介绍。<br>
-The complete version of my self introduction is available on [my personal website](https://samtoki.github.io/#SelfIntroduction), in simplified Chinese only.
+欢迎访问我的个人网站查看[完整的自我介绍](https://SamToki.github.io/#SelfIntroduction)。<br>
+The [complete version of my self introduction](https://SamToki.github.io/#SelfIntroduction) is available on my personal website, in simplified Chinese only.
