@@ -9,7 +9,7 @@ Meet the new member of [Sam Toki's Mouse Cursors](https://github.com/SamToki/Sam
 Aviation geek original project [GPS-PFD](https://github.com/SamToki/GPS-PFD) is now in beta test.
 
 [原神](https://zh.moegirl.org.cn/原神)同人游戏「[七圣召唤 Lite](https://github.com/SamToki/GITCG-Lite)」已停止开发。<br>
-The development of the [*Genshin Impact*](https://genshin-impact.fandom.com/wiki/Genshin_Impact) Doujin game [GITCG Lite](https://github.com/SamToki/GITCG-Lite) has been suspended.
+The development of the [*Genshin*](https://genshin-impact.fandom.com/wiki/Genshin_Impact) Doujin game [GITCG Lite](https://github.com/SamToki/GITCG-Lite) has been suspended.
 
 # 简介 Description
 
